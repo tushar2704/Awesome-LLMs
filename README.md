@@ -17,7 +17,7 @@
 
 <hr/>
 
-# 🌟 Awesome LLM Application & Resources by Tushar Aggarwal
+#### 🌟 Awesome LLM Application & Resources by Tushar Aggarwal
 A curated collection of awesome LLM Application & Resources built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
 
 

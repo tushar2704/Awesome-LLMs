@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ```bash
 # Run the entire script
-python finetune_llama3.2.py
+python finetuning_llama3.2.py
 ```
 
 3. The finetuned model will be saved in the "finetuned_model" directory.
