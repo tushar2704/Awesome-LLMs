@@ -1,0 +1,15 @@
+langchain-groq
+langchain
+chainlit
+pydantic
+openai
+crewai
+crewai_tools
+langchain_community
+groq
+markdown_pdf
+duckduckgo-search
+fpdf
+unstructured
+pyowm
+tools
