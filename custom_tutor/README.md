@@ -47,7 +47,7 @@ This project is an AI-powered tool designed to generate personalized learning pa
 1. Run the Streamlit app:
 
     ```bash
-    streamlit run main.py
+    streamlit run tutorapp.py
     ```
 
 2. Open the provided URL in your web browser to access the AI-Powered Personal Learning Path Generator.
