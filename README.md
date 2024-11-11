@@ -129,3 +129,4 @@ Contributions are welcome! If you have any ideas, improvements, or new apps to a
 
 🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM applications with RAG.**
 
+We Value Your Feedback! Share your thoughts in our Community Survey
